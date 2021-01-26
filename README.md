@@ -1,2 +1,1 @@
-# homebrew-tpc
-tpc on homebrew
+# homebrew-sea
