@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Tpc < Formula
+class TpcAT001 < Formula
   desc "CLI for Tuya Panel Developer"
   homepage ""
   url "https://github.com/youngjuning/tpc/releases/download/v0.0.1/tpc_0.0.1.tar.gz"
@@ -11,7 +11,7 @@ class Tpc < Formula
   # depends_on "cmake" => :build
 
   def install
-    bin.install "tpc@0.0.1"
+    bin.install "tpc"
   end
 
   test do
