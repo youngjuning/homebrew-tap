@@ -4,7 +4,7 @@
 class Tpc < Formula
   desc "CLI for Tuya Panel Developer"
   homepage ""
-  url "https://github.com/youngjuning/tpc/releases/download/v0.0.1/tpc_0.0.1.tar.gz"
+  url "https://github.com/youngjuning/tpc/releases/download/latest/tpc.tar.gz"
   sha256 "f267df2d279a439567450d76e764a074e1bbc5302b27db01fa24216b4bdf6d1b"
   license "MIT"
 
