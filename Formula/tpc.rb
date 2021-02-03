@@ -5,7 +5,7 @@ class Tpc < Formula
   desc "CLI for Tuya Panel Developer"
   homepage ""
   url "https://github.com/youngjuning/tpc/releases/download/v0.0.2/tpc.tar.gz"
-  sha256 "f267df2d279a439567450d76e764a074e1bbc5302b27db01fa24216b4bdf6d1b"
+  sha256 "a32a5328a45a697e81a4ec23d752b3373e4121b7942a956b8389a0c07afc67aa"
   license "MIT"
 
   # depends_on "cmake" => :build
