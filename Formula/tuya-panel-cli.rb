@@ -4,8 +4,8 @@
 class TuyaPanelCli < Formula
   desc "CLI for Tuya Panel Developer"
   homepage ""
-  url "https://github.com/tuya/tuya-panel-cli/releases/download/v0.2.0/tuya-panel-cli.tar.gz"
-  sha256 "eccbc50403194c8ff2cb81fc5119f579faee4aaf035b1c3fff89279ca762ad16"
+  url "https://github.com/tuya/tuya-panel-cli/releases/download/v0.3.0/tuya-panel-cli.tar.gz"
+  sha256 "634658be2a07951a3e876ac533ad599da88952aab5b98282e4e618d21af6e894"
   license "MIT"
 
   # depends_on "cmake" => :build
