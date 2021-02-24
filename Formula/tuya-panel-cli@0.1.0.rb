@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class TuyaPanelCliAT001 < Formula
+class TuyaPanelCliAT010 < Formula
   desc "CLI for Tuya Panel Developer"
   homepage ""
   url "https://github.com/tuya/tuya-panel-cli/releases/download/v0.1.0/tuya-panel-cli.tar.gz"
