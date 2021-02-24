@@ -1,17 +1,17 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Tpc < Formula
+class Tuya-panel-cliAT001 < Formula
   desc "CLI for Tuya Panel Developer"
   homepage ""
-  url "https://github.com/youngjuning/tpc/releases/download/v0.0.2/tpc.tar.gz"
-  sha256 "a32a5328a45a697e81a4ec23d752b3373e4121b7942a956b8389a0c07afc67aa"
+  url "https://github.com/tuya/tuya-panel-cli/releases/download/v0.2.0/tuya-panel-cli.tar.gz"
+  sha256 "f267df2d279a439567450d76e764a074e1bbc5302b27db01fa24216b4bdf6d1b"
   license "MIT"
 
   # depends_on "cmake" => :build
 
   def install
-    bin.install "tpc"
+    bin.install "tuya-panel-cli"
   end
 
   test do
