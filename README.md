@@ -4,8 +4,8 @@
 $ brew tap youngjuning/homebrew-tap https://github.com/youngjuning/homebrew-tap.git
 ```
 
-## tpc
+## tuya-panel-cli
 
 ```sh
-$ brew install youngjuning/tap/tpc
+$ brew install youngjuning/tap/tuya-panel-cli
 ```
